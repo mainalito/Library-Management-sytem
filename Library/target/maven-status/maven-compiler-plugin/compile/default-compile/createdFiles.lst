@@ -1,0 +1,13 @@
+com\mycompany\library\exception\GenericExceptionMapper.class
+com\mycompany\library\dao\Book.class
+com\mycompany\library\database\database.class
+com\mycompany\library\resource\bookResource.class
+com\mycompany\library\resource\CategoryResourse.class
+com\mycompany\librarys\SecuredResource.class
+com\mycompany\library\dao\Error.class
+com\mycompany\library\exception\DataNotFoundExceptionMapper.class
+com\mycompany\library\service\CategoryService.class
+com\mycompany\library\service\bookService.class
+com\mycompany\library\exception\DataNotFoundException.class
+com\mycompany\library\filters\SecurityFilter.class
+com\mycompany\library\dao\Category.class
